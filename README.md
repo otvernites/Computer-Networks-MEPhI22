@@ -3,6 +3,6 @@
 
 - [Метрики сети](https://github.com/otvernites/Computer-networks-MEPhI22/tree/main/Network%20metrics)
 
-- [EDC и ECC](EDC&ECC)
+- [EDC и ECC (коды Хемминга)](EDC&ECC)
 
 - [Маршруты в сетях](Routing)
