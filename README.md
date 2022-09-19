@@ -1,7 +1,7 @@
 # Computer-networks-MEPhI22
 Дополнительные задания, выполненные в рамках семестрового курса по сетям.
 
-## [Метрики сети](Network metrics)
+## [Метрики сети](Network_metrics)
 
 ## [EDC и ECC](EDC&ECC)
 
